@@ -2,7 +2,7 @@ $(document).ready(function () {
 
 
     $('.counter').counterUp({
-        delay: 100,
+        delay: 1000,
         time: 100,
         
     });
